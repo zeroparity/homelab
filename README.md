@@ -1,5 +1,7 @@
 # Home Lab
 
+## 11 Years on and this is still running. Still using VMware but now running a mix of lab vm's and home network automation vm's
+
 ## Supermicro 5018D-FN4T
 * Xeon D 8 core processor
 * 128GB Memory
